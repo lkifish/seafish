@@ -1,2 +1,3 @@
 # seafish
-for learning data science on corsera
+Hello world
+This is for learning data science on corsera
